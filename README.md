@@ -11,7 +11,10 @@
    - (SSH : git@github.com:dipenr06/simpleNotepadApp.git )
   <br>
 3. install intellij (https://www.jetbrains.com/idea/download/)
+
+<br>
 4. open the Calculator.java file
+<br>
 5. right click and run the program
 
 # Screenshots
@@ -40,4 +43,3 @@
 # Sub features
 - It can copy, paste, cut and can also print the data in the text file you create
 - also it has option to select all the text in the GUI
-- 
