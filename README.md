@@ -1,1 +1,1 @@
-# simpleNotepadApp
+# Simple Notepad App
