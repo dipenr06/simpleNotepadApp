@@ -12,7 +12,7 @@ public class Calculator implements ActionListener{
 
     Calculator()
     {
-        f = new Frame("424_Aditya");
+        f = new Frame("432_Dipen");
         f.setLayout(new FlowLayout());
         p = new Panel();
 
