@@ -13,7 +13,7 @@
 3. install intellij (https://www.jetbrains.com/idea/download/)
 
 <br>
-4. open the Calculator.java file
+4. open the Notepad.java file
 <br>
 5. right click and run the program
 
